@@ -1,0 +1,12 @@
+{
+  "name": "photo-rotator",
+  "version": "1.0.0",
+  "description": "Early 2000s style photo rotator",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
